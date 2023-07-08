@@ -1,0 +1,16 @@
+.contactpage{
+    background-image: url("/src/Images/secondary_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: auto;
+    width: auto;
+    height: 1000px;
+    padding: 10px;
+    border: 2px solid gold;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+}

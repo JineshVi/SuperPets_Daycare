@@ -1,0 +1,30 @@
+.homepage{
+    color: white;
+    background-image: url("/src/Images/main_background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: auto;
+    width: auto;
+    height: 1200px;
+    padding: 10px;
+    border: 2px solid gold;
+    text-align: center;
+}
+
+.homepage p{
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.tableContainer{
+    font-weight: bold;
+    font-size: large;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
